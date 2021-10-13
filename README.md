@@ -1,3 +1,21 @@
+#React Netflix Clone App
+
+##Thanks to Clever Programming For this project. I learnt about web api's
+##special thanks to @sssangha and @cleverQazi
+
+##Tools used to developing this app
+  
+  1.ReactJs
+  2.Firebase
+  3.TMDB API
+
+##ScreenShots
+
+![messenger2](https://user-images.githubusercontent.com/72061096/137091491-2d72a116-4a1d-49d2-b571-c4eeea7dff79.png)
+
+
+![messenger4](https://user-images.githubusercontent.com/72061096/137091521-33f33786-71ce-4e7f-9f69-38a5b2473389.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
